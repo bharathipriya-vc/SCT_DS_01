@@ -7,10 +7,9 @@ This task is part of the Skillcraft Technology internship. It involves analyzing
 ---
 
 ## 📁 Files Included
-|------|-------------|
-| `task1_histogram.ipynb` | Jupyter Notebook containing code to clean, analyze, and plot the population data |
+| `task1.ipynb` | Jupyter Notebook containing code to clean, analyze, and plot the population data |
 
-| `population_histogram.png` | Final histogram image output |
+| `taskone.png` | Final histogram image output |
 
 | `README.md` | Project description and submission info |
 
@@ -24,7 +23,7 @@ This task is part of the Skillcraft Technology internship. It involves analyzing
 
 ## 📸 Output Preview
 
-![Population Histogram](population_histogram.png)
+![taskone](taskone.png)
 
 ---
 
